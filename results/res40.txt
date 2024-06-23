@@ -1,0 +1,120 @@
+Graph info:
+Nodes: 40
+Edges: 388
+Size of EDS from Maximal Matching: 20
+Greedy algorithm: 18
+Fitenss: Infinity, Gradual mutation: False
+Parameters: (200, 50, 0.01, 0.05), Solution Size: 23, Approximation Ratio: 0.87
+Parameters: (200, 50, 0.01, 0.1), Solution Size: 25, Approximation Ratio: 0.80
+Parameters: (200, 50, 0.05, 0.05), Solution Size: 83, Approximation Ratio: 0.24
+Parameters: (200, 50, 0.05, 0.1), Solution Size: 93, Approximation Ratio: 0.22
+Parameters: (200, 100, 0.01, 0.05), Solution Size: 26, Approximation Ratio: 0.77
+Parameters: (200, 100, 0.01, 0.1), Solution Size: 21, Approximation Ratio: 0.95
+Parameters: (200, 100, 0.05, 0.05), Solution Size: 88, Approximation Ratio: 0.23
+Parameters: (200, 100, 0.05, 0.1), Solution Size: 92, Approximation Ratio: 0.22
+Parameters: (200, 200, 0.01, 0.05), Solution Size: 21, Approximation Ratio: 0.95
+Parameters: (200, 200, 0.01, 0.1), Solution Size: 23, Approximation Ratio: 0.87
+Parameters: (200, 200, 0.05, 0.05), Solution Size: 93, Approximation Ratio: 0.22
+Parameters: (200, 200, 0.05, 0.1), Solution Size: 92, Approximation Ratio: 0.22
+Parameters: (400, 50, 0.01, 0.05), Solution Size: 21, Approximation Ratio: 0.95
+Parameters: (400, 50, 0.01, 0.1), Solution Size: 20, Approximation Ratio: 1.00
+Parameters: (400, 50, 0.05, 0.05), Solution Size: 74, Approximation Ratio: 0.27
+Parameters: (400, 50, 0.05, 0.1), Solution Size: 81, Approximation Ratio: 0.25
+Parameters: (400, 100, 0.01, 0.05), Solution Size: 20, Approximation Ratio: 1.00
+Parameters: (400, 100, 0.01, 0.1), Solution Size: 18, Approximation Ratio: 1.11
+Parameters: (400, 100, 0.05, 0.05), Solution Size: 82, Approximation Ratio: 0.24
+Parameters: (400, 100, 0.05, 0.1), Solution Size: 78, Approximation Ratio: 0.26
+Parameters: (400, 200, 0.01, 0.05), Solution Size: 19, Approximation Ratio: 1.05
+Parameters: (400, 200, 0.01, 0.1), Solution Size: 18, Approximation Ratio: 1.11
+Parameters: (400, 200, 0.05, 0.05), Solution Size: 76, Approximation Ratio: 0.26
+Parameters: (400, 200, 0.05, 0.1), Solution Size: 81, Approximation Ratio: 0.25
+Parameters: (600, 50, 0.01, 0.05), Solution Size: 19, Approximation Ratio: 1.05
+Parameters: (600, 50, 0.01, 0.1), Solution Size: 20, Approximation Ratio: 1.00
+Parameters: (600, 50, 0.05, 0.05), Solution Size: 68, Approximation Ratio: 0.29
+Parameters: (600, 50, 0.05, 0.1), Solution Size: 75, Approximation Ratio: 0.27
+Parameters: (600, 100, 0.01, 0.05), Solution Size: 19, Approximation Ratio: 1.05
+Parameters: (600, 100, 0.01, 0.1), Solution Size: 20, Approximation Ratio: 1.00
+Parameters: (600, 100, 0.05, 0.05), Solution Size: 75, Approximation Ratio: 0.27
+Parameters: (600, 100, 0.05, 0.1), Solution Size: 72, Approximation Ratio: 0.28
+Parameters: (600, 200, 0.01, 0.05), Solution Size: 19, Approximation Ratio: 1.05
+Parameters: (600, 200, 0.01, 0.1), Solution Size: 17, Approximation Ratio: 1.18
+Parameters: (600, 200, 0.05, 0.05), Solution Size: 72, Approximation Ratio: 0.28
+Parameters: (600, 200, 0.05, 0.1), Solution Size: 80, Approximation Ratio: 0.25
+----------------------------------------------------------------------
+Fitenss: Penalty, Gradual mutation: False
+Parameters: (200, 50, 0.01, 0.05), Solution Size: 23, Approximation Ratio: 0.87
+Parameters: (200, 50, 0.01, 0.1), Solution Size: 24, Approximation Ratio: 0.83
+Parameters: (200, 50, 0.05, 0.05), Solution Size: 93, Approximation Ratio: 0.22
+Parameters: (200, 50, 0.05, 0.1), Solution Size: 95, Approximation Ratio: 0.21
+Parameters: (200, 100, 0.01, 0.05), Solution Size: 22, Approximation Ratio: 0.91
+Parameters: (200, 100, 0.01, 0.1), Solution Size: 24, Approximation Ratio: 0.83
+Parameters: (200, 100, 0.05, 0.05), Solution Size: 94, Approximation Ratio: 0.21
+Parameters: (200, 100, 0.05, 0.1), Solution Size: 94, Approximation Ratio: 0.21
+Parameters: (200, 200, 0.01, 0.05), Solution Size: 25, Approximation Ratio: 0.80
+Parameters: (200, 200, 0.01, 0.1), Solution Size: 21, Approximation Ratio: 0.95
+Parameters: (200, 200, 0.05, 0.05), Solution Size: 91, Approximation Ratio: 0.22
+Parameters: (200, 200, 0.05, 0.1), Solution Size: 85, Approximation Ratio: 0.24
+Parameters: (400, 50, 0.01, 0.05), Solution Size: 20, Approximation Ratio: 1.00
+Parameters: (400, 50, 0.01, 0.1), Solution Size: 20, Approximation Ratio: 1.00
+Parameters: (400, 50, 0.05, 0.05), Solution Size: 76, Approximation Ratio: 0.26
+Parameters: (400, 50, 0.05, 0.1), Solution Size: 81, Approximation Ratio: 0.25
+Parameters: (400, 100, 0.01, 0.05), Solution Size: 20, Approximation Ratio: 1.00
+Parameters: (400, 100, 0.01, 0.1), Solution Size: 21, Approximation Ratio: 0.95
+Parameters: (400, 100, 0.05, 0.05), Solution Size: 77, Approximation Ratio: 0.26
+Parameters: (400, 100, 0.05, 0.1), Solution Size: 81, Approximation Ratio: 0.25
+Parameters: (400, 200, 0.01, 0.05), Solution Size: 19, Approximation Ratio: 1.05
+Parameters: (400, 200, 0.01, 0.1), Solution Size: 18, Approximation Ratio: 1.11
+Parameters: (400, 200, 0.05, 0.05), Solution Size: 75, Approximation Ratio: 0.27
+Parameters: (400, 200, 0.05, 0.1), Solution Size: 77, Approximation Ratio: 0.26
+Parameters: (600, 50, 0.01, 0.05), Solution Size: 20, Approximation Ratio: 1.00
+Parameters: (600, 50, 0.01, 0.1), Solution Size: 19, Approximation Ratio: 1.05
+Parameters: (600, 50, 0.05, 0.05), Solution Size: 73, Approximation Ratio: 0.27
+Parameters: (600, 50, 0.05, 0.1), Solution Size: 75, Approximation Ratio: 0.27
+Parameters: (600, 100, 0.01, 0.05), Solution Size: 19, Approximation Ratio: 1.05
+Parameters: (600, 100, 0.01, 0.1), Solution Size: 20, Approximation Ratio: 1.00
+Parameters: (600, 100, 0.05, 0.05), Solution Size: 66, Approximation Ratio: 0.30
+Parameters: (600, 100, 0.05, 0.1), Solution Size: 71, Approximation Ratio: 0.28
+Parameters: (600, 200, 0.01, 0.05), Solution Size: 19, Approximation Ratio: 1.05
+Parameters: (600, 200, 0.01, 0.1), Solution Size: 19, Approximation Ratio: 1.05
+Parameters: (600, 200, 0.05, 0.05), Solution Size: 77, Approximation Ratio: 0.26
+Parameters: (600, 200, 0.05, 0.1), Solution Size: 68, Approximation Ratio: 0.29
+----------------------------------------------------------------------
+Fitenss: Infinity, Gradual mutation: True
+Parameters: (200, 50, 0.05, 0.05), Solution Size: 36, Approximation Ratio: 0.56
+Parameters: (200, 50, 0.05, 0.1), Solution Size: 40, Approximation Ratio: 0.50
+Parameters: (200, 100, 0.05, 0.05), Solution Size: 31, Approximation Ratio: 0.65
+Parameters: (200, 100, 0.05, 0.1), Solution Size: 31, Approximation Ratio: 0.65
+Parameters: (200, 200, 0.05, 0.05), Solution Size: 30, Approximation Ratio: 0.67
+Parameters: (200, 200, 0.05, 0.1), Solution Size: 29, Approximation Ratio: 0.69
+Parameters: (400, 50, 0.05, 0.05), Solution Size: 29, Approximation Ratio: 0.69
+Parameters: (400, 50, 0.05, 0.1), Solution Size: 29, Approximation Ratio: 0.69
+Parameters: (400, 100, 0.05, 0.05), Solution Size: 24, Approximation Ratio: 0.83
+Parameters: (400, 100, 0.05, 0.1), Solution Size: 23, Approximation Ratio: 0.87
+Parameters: (400, 200, 0.05, 0.05), Solution Size: 21, Approximation Ratio: 0.95
+Parameters: (400, 200, 0.05, 0.1), Solution Size: 21, Approximation Ratio: 0.95
+Parameters: (600, 50, 0.05, 0.05), Solution Size: 24, Approximation Ratio: 0.83
+Parameters: (600, 50, 0.05, 0.1), Solution Size: 24, Approximation Ratio: 0.83
+Parameters: (600, 100, 0.05, 0.05), Solution Size: 21, Approximation Ratio: 0.95
+Parameters: (600, 100, 0.05, 0.1), Solution Size: 22, Approximation Ratio: 0.91
+Parameters: (600, 200, 0.05, 0.05), Solution Size: 22, Approximation Ratio: 0.91
+Parameters: (600, 200, 0.05, 0.1), Solution Size: 20, Approximation Ratio: 1.00
+----------------------------------------------------------------------
+Fitenss: Penalty, Gradual mutation: True
+Parameters: (200, 50, 0.05, 0.05), Solution Size: 36, Approximation Ratio: 0.56
+Parameters: (200, 50, 0.05, 0.1), Solution Size: 29, Approximation Ratio: 0.69
+Parameters: (200, 100, 0.05, 0.05), Solution Size: 31, Approximation Ratio: 0.65
+Parameters: (200, 100, 0.05, 0.1), Solution Size: 29, Approximation Ratio: 0.69
+Parameters: (200, 200, 0.05, 0.05), Solution Size: 24, Approximation Ratio: 0.83
+Parameters: (200, 200, 0.05, 0.1), Solution Size: 26, Approximation Ratio: 0.77
+Parameters: (400, 50, 0.05, 0.05), Solution Size: 27, Approximation Ratio: 0.74
+Parameters: (400, 50, 0.05, 0.1), Solution Size: 26, Approximation Ratio: 0.77
+Parameters: (400, 100, 0.05, 0.05), Solution Size: 26, Approximation Ratio: 0.77
+Parameters: (400, 100, 0.05, 0.1), Solution Size: 23, Approximation Ratio: 0.87
+Parameters: (400, 200, 0.05, 0.05), Solution Size: 20, Approximation Ratio: 1.00
+Parameters: (400, 200, 0.05, 0.1), Solution Size: 21, Approximation Ratio: 0.95
+Parameters: (600, 50, 0.05, 0.05), Solution Size: 23, Approximation Ratio: 0.87
+Parameters: (600, 50, 0.05, 0.1), Solution Size: 25, Approximation Ratio: 0.80
+Parameters: (600, 100, 0.05, 0.05), Solution Size: 22, Approximation Ratio: 0.91
+Parameters: (600, 100, 0.05, 0.1), Solution Size: 19, Approximation Ratio: 1.05
+Parameters: (600, 200, 0.05, 0.05), Solution Size: 21, Approximation Ratio: 0.95
+Parameters: (600, 200, 0.05, 0.1), Solution Size: 19, Approximation Ratio: 1.05
